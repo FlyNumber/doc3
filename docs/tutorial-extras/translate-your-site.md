@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Translate your site
+# Translate your site today
 
 Let's translate `docs/intro.md` to French.
 
@@ -86,3 +86,6 @@ Or build your site to include all the locales at once:
 ```bash
 npm run build
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAzNDc1ODg0M119
+-->
