@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Create a Page here
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
@@ -41,3 +41,6 @@ This is a Markdown page
 ```
 
 A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNDczNzMwOTBdfQ==
+-->
